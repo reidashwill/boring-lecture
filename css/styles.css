@@ -1,5 +1,8 @@
+body{
+  background-color: lightgreen;
+}
 h2.intro{
-color: aqua;
+  color: aqua;
 }
 p.intro{
   color:lightcoral;
