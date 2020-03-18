@@ -1,4 +1,28 @@
-body{
+  body{
+  background-color: lightgreen;
+  }
+  h2{
+    color: aqua;
+  }
+  p{
+    color:lightcoral;
+  }
+  img{
+    height:70%;
+    width:70%;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+/* body{
   background-color: lightgreen;
 }
 h2.intro{
@@ -10,4 +34,4 @@ p.intro{
 img.intro{
   height:70%;
   width:70%;
-}
+} */
