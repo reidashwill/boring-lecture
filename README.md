@@ -54,6 +54,7 @@ _*css_
 _*vscode_
 _*gitbash_
 _*html_
+_*bootstrap_
 
 ### License
 
