@@ -1,6 +1,11 @@
   body{
   background-color: lightgreen;
   }
+  .jumbotron{
+    text-align:center;
+    background-color: darkcyan;
+    color: white;
+  }
   h2{
     color: aqua;
   }
@@ -11,27 +16,8 @@
     height:70%;
     width:70%;
   }
-  
-
-
-
-
-
-
-
-
-
-
-/* body{
-  background-color: lightgreen;
-}
-h2.intro{
-  color: aqua;
-}
-p.intro{
-  color:lightcoral;
-}
-img.intro{
-  height:70%;
-  width:70%;
-} */
+  .container{
+    text-align: center;
+    font-family: georgia;
+   margin-bottom: 50px;
+  }
