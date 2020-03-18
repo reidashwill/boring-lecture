@@ -1,6 +1,10 @@
 h2.intro{
-
+color: aqua;
 }
 p.intro{
-  
+  color:lightcoral;
+}
+img.intro{
+  height:70%;
+  width:70%;
 }
